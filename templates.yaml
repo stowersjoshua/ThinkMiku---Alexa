@@ -1,0 +1,7 @@
+play: |
+  <speak>
+      I am thinking Miku..
+      <audio src='https://drive.google.com/uc?id=0Byutq1dReVz7X05XOHlyQ0dvdVk&authuser=0&export=download'/>
+  </speak>
+stop: Good bye!
+cancel: Canceling..
