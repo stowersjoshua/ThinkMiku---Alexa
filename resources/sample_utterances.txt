@@ -1,1 +1,3 @@
 BeginIntent start
+BeginIntent sing me a song
+BeginIntent by Anamanaguchi
